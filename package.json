@@ -1,0 +1,27 @@
+{
+  "name": "consignment-pricing-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxgvrl/Consignment-Pricing-PoC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxgvrl/Consignment-Pricing-PoC/issues"
+  },
+  "homepage": "https://github.com/mxgvrl/Consignment-Pricing-PoC#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.18.1"
+  }
+}
